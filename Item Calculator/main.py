@@ -9,7 +9,7 @@ import os
 # Main Window Spec
 main = Tk()
 main.title('Item Calculators')
-main.iconbitmap('Testing_Grounds_PY/Item Calculator/Images/icon/cha0scharly.ico')
+main.iconbitmap('Item Calculator/Images/icon/cha0scharly.ico')
 main.geometry("542x238")
 main.configure(bg="#11161d")
 
@@ -60,7 +60,7 @@ def open_main_window():
 def satisfactory():
     sat_calc = Tk()
     sat_calc.title('Satisfactory Calculator')
-    sat_calc.iconbitmap('Testing_Grounds_PY/Item Calculator/Images/icon/satisfactory_img.ico')
+    sat_calc.iconbitmap('Item Calculator/Images/icon/satisfactory_img.ico')
     sat_calc.geometry("408x827")
     sat_calc.config(bg="#4c5b5f")
 
@@ -82,7 +82,7 @@ def satisfactory():
 
     # Save funcation
     def sat_save():
-        file_path = filedialog.asksaveasfilename(initialdir="Testing_Grounds_PY/Item Calculator/sat_saves", defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
+        file_path = filedialog.asksaveasfilename(initialdir="Item Calculator/sat_saves", defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
         if file_path:
             try:
                 with open(file_path, 'w') as file:
@@ -98,7 +98,7 @@ def satisfactory():
     # Load
     
     def sat_open():
-        sat_calc.filename = filedialog.askopenfilename(initialdir="H:\Code\Testing_Grounds_PY\Tk_images", defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
+        sat_calc.filename = filedialog.askopenfilename(initialdir="Item Calculator/sat_saves", defaultextension=".txt", filetypes=[("Text files", "*.txt"), ("All files", "*.*")])
 
     sat_load_button = Button(sat_menu_frame, text="load", command=sat_open, bg="#4c5b5f", fg="#e49245", width=5)
     sat_load_button.grid(row=0, column=3, pady=5)
