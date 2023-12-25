@@ -1,0 +1,9 @@
+{
+    "Empty Fluid Tank":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Aluminum Ingot":60
+        }
+    }
+}

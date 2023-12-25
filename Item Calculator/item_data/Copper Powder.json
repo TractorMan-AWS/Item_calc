@@ -1,0 +1,9 @@
+{
+    "Copper Powder":
+    {
+        "Result":50,
+        "Ingredients":{
+            "Copper Ingot":300
+        }
+    }
+}

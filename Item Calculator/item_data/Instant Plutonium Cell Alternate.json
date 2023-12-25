@@ -1,0 +1,10 @@
+{
+    "Instant Plutonium Cell Alternate":
+    {
+        "Result":10,
+        "Ingredients":{
+            "Non Fissile Uranium":75,
+            "Aluminum Casing":10
+        }
+    }
+}

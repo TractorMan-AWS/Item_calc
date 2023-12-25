@@ -1,0 +1,10 @@
+{
+    "Heat Sink":
+    {
+        "Result":7.5,
+        "Ingredients":{
+            "Alclad Aluminum Sheet":37.5,
+            "Copper Sheet":22.5
+        }
+    }
+}

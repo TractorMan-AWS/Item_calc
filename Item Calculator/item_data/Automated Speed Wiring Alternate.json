@@ -1,0 +1,11 @@
+{
+    "Automated Speed Wiring":
+    {
+        "Result":7.5,
+        "Ingredients":{
+            "stator":2.5,
+            "Wire":75,
+            "High Speed Connector":1.875
+        }
+    }
+}

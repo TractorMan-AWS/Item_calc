@@ -1,0 +1,10 @@
+{
+    "Electromagnetic Connection Rod Alternate":
+    {
+        "Result":8,
+        "Ingredients":{
+            "Stator":8,
+            "High Speed Connector":4
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Coke Steel Ingot Alternate":
+    {
+        "Result":100,
+        "Ingredients":{
+            "Iron Ore":75,
+            "Petroleum Coke":75
+        }
+    }
+}

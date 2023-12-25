@@ -1,0 +1,10 @@
+{
+    "Encased Plutonium Cell":
+    {
+        "Result":5,
+        "Ingredients":{
+            "Plutonium Pellet":10,
+            "Concrete":20
+        }
+    }
+}

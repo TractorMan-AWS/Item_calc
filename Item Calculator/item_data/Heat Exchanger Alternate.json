@@ -1,0 +1,10 @@
+{
+    "Heat Exchanger Alternate":
+    {
+        "Result":10,
+        "Ingredients":{
+            "Aluminum Casing":30,
+            "Rubber":30
+        }
+    }
+}

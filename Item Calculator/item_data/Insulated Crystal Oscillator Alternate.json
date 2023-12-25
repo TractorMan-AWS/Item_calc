@@ -1,0 +1,11 @@
+{
+    "Insulated Crystal Oscillator Alternate":
+    {
+        "Result":1.875,
+        "Ingredients":{
+            "Quartz Crystal":18.75,
+            "Rubber":13.125,
+            "AI Limiter":1.875
+        }
+    }
+}

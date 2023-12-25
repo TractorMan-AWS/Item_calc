@@ -1,0 +1,10 @@
+{
+    "Insulated Cable Alternate":
+    {
+        "Result":100,
+        "Ingredients":{
+            "Wire":45,
+            "Rubber":30
+        }
+    }
+}

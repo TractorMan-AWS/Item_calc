@@ -1,0 +1,12 @@
+{
+    "Encased Uranium Cell":
+    {
+        "Result":25,
+        "Ingredients":{
+            "Uranium":50,
+            "Concrete":15,
+            "Sulfuric Acid":40,
+            "Sulfuric Acid Output":10
+        }
+    }
+}

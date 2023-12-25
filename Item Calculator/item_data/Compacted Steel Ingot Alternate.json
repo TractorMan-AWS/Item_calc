@@ -1,0 +1,10 @@
+{
+    "Compacted Steel Ingot Alternate":
+    {
+        "Result":37.5,
+        "Ingredients":{
+            "Iron Ore":22.5,
+            "Compacted Coal":11.25
+        }
+    }
+}

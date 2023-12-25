@@ -1,0 +1,13 @@
+{
+    "Non Fissile Uranium":
+    {
+        "Result":50,
+        "Ingredients":{
+            "Uranium Waste":37.5,
+            "Silica":25,
+            "Nitric Acid":15,
+            "Sulfuric Acid":15,
+            "Waste Water":15
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Diluted Packaged Fuel":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Heavy Oil Residue":30,
+            "Packaged Water":60
+        }
+    }
+}

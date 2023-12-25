@@ -1,0 +1,10 @@
+{
+    "Fuel":
+    {
+        "Result":40,
+        "Ingredients":{
+            "Crude Oil":60,
+            "Polymer Resin Byproduct":30
+        }
+    }
+}

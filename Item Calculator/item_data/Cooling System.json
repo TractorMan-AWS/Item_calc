@@ -1,0 +1,12 @@
+{
+    "Cooling system":
+    {
+        "Result":6,
+        "Ingredients":{
+            "Heat Sink":12,
+            "Rubber":12,
+            "Water":30,
+            "Nitrogen Gas":150
+        }
+    }
+}

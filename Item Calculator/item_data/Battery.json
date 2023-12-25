@@ -1,0 +1,12 @@
+{
+    "Battery":
+    {
+        "Result":20,
+        "Ingredients":{
+            "Sulfuric Acid":50,
+            "Alumina Solution":40,
+            "Aluminum Casing":20,
+            "Water Waste":30
+        }
+    }
+}

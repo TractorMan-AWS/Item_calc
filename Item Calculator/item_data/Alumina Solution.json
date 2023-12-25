@@ -1,0 +1,11 @@
+{
+    "Alumina Solution":
+    {
+        "Result":120,
+        "Ingredients":{
+            "Bauxite":120,
+            "Water":180,
+            "Silica Byproduct":50
+        }
+    }
+}

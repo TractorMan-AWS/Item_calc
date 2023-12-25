@@ -1,0 +1,13 @@
+{
+    "Fertile Uranium Alternate":
+    {
+        "Result":100,
+        "Ingredients":{
+            "Uranium":25,
+            "Uranium Waste":25,
+            "Nitric Acid":15,
+            "Sulfuric Acid":25,
+            "Water Waste":40
+        }
+    }
+}

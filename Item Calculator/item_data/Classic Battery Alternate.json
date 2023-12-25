@@ -1,0 +1,12 @@
+{
+    "Classic Battery":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Sulphur":45,
+            "Alclad Aluminum Sheet":52.5,
+            "Plastic":60,
+            "Wire":90
+        }
+    }
+}

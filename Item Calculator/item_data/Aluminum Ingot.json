@@ -1,0 +1,10 @@
+{
+    "Aluminum Ingot":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Aluminum Scrap":90,
+            "Silica":75
+        }
+    }
+}

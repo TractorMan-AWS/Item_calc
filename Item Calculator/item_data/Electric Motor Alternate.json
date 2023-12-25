@@ -1,0 +1,10 @@
+{
+    "Electric Motor Alternate":
+    {
+        "Result":7.5,
+        "Ingredients":{
+            "Electromagnetic Control Rod":3.75,
+            "Rotor":7.5
+        }
+    }
+}

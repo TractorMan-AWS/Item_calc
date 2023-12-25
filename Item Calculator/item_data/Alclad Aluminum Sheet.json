@@ -1,0 +1,10 @@
+{
+    "Alclad Aluminum Sheet":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Aluminum Ingot":30,
+            "Copper Ingot":10
+        }
+    }
+}

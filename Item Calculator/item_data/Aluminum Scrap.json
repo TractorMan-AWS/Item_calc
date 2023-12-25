@@ -1,0 +1,11 @@
+{
+    "Aluminum Scrap":
+    {
+        "Result":360,
+        "Ingredients":{
+            "Alumina Solution":240,
+            "Coal":120,
+            "Water Waste":120
+        }
+    }
+}

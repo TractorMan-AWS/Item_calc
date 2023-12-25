@@ -1,0 +1,10 @@
+{
+    "Electormagnetic Control rod":
+    {
+        "Result":4,
+        "Ingredients":{
+            "Stator":6,
+            "Ai Limiter":4
+        }
+    }
+}

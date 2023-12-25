@@ -1,0 +1,11 @@
+{
+    "Magnetic Field Generator":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Versatile Framework":2.5,
+            "Electromagnetic Control Rod":1,
+            "Battery":5
+        }
+    }
+}

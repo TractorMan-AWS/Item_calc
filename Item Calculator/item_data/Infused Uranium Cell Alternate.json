@@ -1,0 +1,12 @@
+{
+    "Infused Uranium Cell Alternate":
+    {
+        "Result":4,
+        "Ingredients":{
+            "Uranium":25,
+            "Silica":15,
+            "Sulfur":25,
+            "Quickwire":75
+        }
+    }
+}

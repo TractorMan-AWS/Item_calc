@@ -1,0 +1,9 @@
+{
+    "Iron Ingot":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Iron Ore":30
+        }
+    }
+}

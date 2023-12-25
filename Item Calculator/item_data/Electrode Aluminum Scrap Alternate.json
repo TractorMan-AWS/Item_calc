@@ -1,0 +1,11 @@
+{
+    "Electrode Aluminum Scrap Alternate":
+    {
+        "Result":300,
+        "Ingredients":{
+            "Alumina Solution":180,
+            "Petroleum Coke":60,
+            "Water Waste":105
+        }
+    }
+}

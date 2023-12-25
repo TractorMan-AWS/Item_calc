@@ -1,0 +1,11 @@
+{
+    "Cooling Device Alternate":
+    {
+        "Result":3.75,
+        "Ingredients":{
+            "Heat Sink":9.375,
+            "Motor":1.875,
+            "Nitrogen Gas":45
+        }
+    }
+}

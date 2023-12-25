@@ -1,0 +1,10 @@
+{
+    "Heavy Oil Residue":
+    {
+        "Result":40,
+        "Ingredients":{
+            "Crude Oil":30,
+            "Polymer Resin Byproduct":20
+        }
+    }
+}

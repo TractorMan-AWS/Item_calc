@@ -1,0 +1,13 @@
+{
+    "Instant Scrap Alternate":
+    {
+        "Result":300,
+        "Ingredients":{
+            "Bauxite":150,
+            "Coal":100,
+            "Sulfuric Acid":50,
+            "Water":60,
+            "Water Waste":50
+        }
+    }
+}

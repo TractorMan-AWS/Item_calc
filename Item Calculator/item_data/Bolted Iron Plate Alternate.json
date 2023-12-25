@@ -1,0 +1,10 @@
+{
+    "Bolted Iron Plate Alternate":
+    {
+        "Result":3,
+        "Ingredients":{
+            "Screw":250,
+            "Iron Plate":90
+        }
+    }
+}

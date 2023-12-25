@@ -1,0 +1,10 @@
+{
+    "Copper Alloy Ingot Alternate":
+    {
+        "Result":100,
+        "Ingredients":{
+            "Copper Ore":50,
+            "Iron Ore":25
+        }
+    }
+}

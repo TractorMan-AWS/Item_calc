@@ -1,0 +1,11 @@
+{
+    "Crystal Beacon":
+    {
+        "Result":10,
+        "Ingredients":{
+            "Steel Beam":2,
+            "Steel Pipe":8,
+            "Crystal Oscillator":0.5
+        }
+    }
+}
