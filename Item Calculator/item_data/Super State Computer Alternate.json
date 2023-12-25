@@ -1,0 +1,12 @@
+{
+    "Super State Computer Alternate":
+    {
+        "Result":2.4,
+        "Ingredients":{
+            "Radio Control Unit":9,
+            "Electromagnetic Control Rod":2.4,
+            "Battery":24,
+            "Wire":54
+        }
+    }
+}

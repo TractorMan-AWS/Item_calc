@@ -1,0 +1,10 @@
+{
+    "Packaged Sulfuric Acid":
+    {
+        "Result":40,
+        "Ingredients":{
+            "Sulfuric Acid":40,
+            "Empty Canister":40
+        }
+    }
+}

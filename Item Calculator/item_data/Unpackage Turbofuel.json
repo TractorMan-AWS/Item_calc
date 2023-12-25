@@ -1,0 +1,10 @@
+{
+    "Unpackage Turbofuel":
+    {
+        "Result":20,
+        "Ingredients":{
+            "Packaged Turbofuel":20,
+            "Empty Canister Output":20
+        }
+    }
+}

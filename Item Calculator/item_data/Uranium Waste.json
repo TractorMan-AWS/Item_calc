@@ -1,0 +1,10 @@
+{
+    "Uranium Waste":
+    {
+        "Result":10,
+        "Ingredients":{
+            "Uranium Fuel Rod":0.2,
+            "Water":1200
+        }
+    }
+}

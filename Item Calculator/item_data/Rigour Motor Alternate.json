@@ -1,0 +1,11 @@
+{
+    "Rigour Motor Alternate":
+    {
+        "Result":7.5,
+        "Ingredients":{
+            "Rotor":3.75,
+            "Stator":3.75,
+            "Crystal Oscillator ":1.25
+        }
+    }
+}

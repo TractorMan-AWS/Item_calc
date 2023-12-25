@@ -1,0 +1,10 @@
+{
+    "Plutonium Waste":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Plutonium Fuel Rod":0.1,
+            "Water":240
+        }
+    }
+}

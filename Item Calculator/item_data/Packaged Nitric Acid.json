@@ -1,0 +1,10 @@
+{
+    "Packaged Nitric Acid":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Nitric Acid":30,
+            "Empty Fluid Tank":30
+        }
+    }
+}

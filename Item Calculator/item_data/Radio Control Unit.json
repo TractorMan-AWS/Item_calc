@@ -1,0 +1,11 @@
+{
+    "Radio Control Unit":
+    {
+        "Result":2.5,
+        "Ingredients":{
+            "Aluminum Casing":40,
+            "Crystal Oscillator":1.25,
+            "Computer":1.25
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Thermal Propulsion Rocket":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Modular Engine":2.5,
+            "Turbo Motor":1,
+            "Cooling System":3,
+            "Fused Modular Frame":1
+        }
+    }
+}

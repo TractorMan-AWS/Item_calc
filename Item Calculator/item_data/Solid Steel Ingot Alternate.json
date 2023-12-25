@@ -1,0 +1,10 @@
+{
+    "Solid Steel Ingot Alternate":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Iron Ingot":40,
+            "Coal":40
+        }
+    }
+}

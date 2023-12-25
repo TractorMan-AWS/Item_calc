@@ -1,0 +1,10 @@
+{
+    "Unpackage Sulfuric Acid":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Packaged Sulfuric Acid":60,
+            "Empty Canister Output":60
+        }
+    }
+}

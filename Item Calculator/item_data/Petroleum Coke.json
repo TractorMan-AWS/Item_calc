@@ -1,0 +1,9 @@
+{
+    "Petroleum Coke":
+    {
+        "Result":120,
+        "Ingredients":{
+            "Heavy Oil Residue":40
+        }
+    }
+}

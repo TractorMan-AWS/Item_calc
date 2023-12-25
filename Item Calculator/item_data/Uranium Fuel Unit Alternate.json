@@ -1,0 +1,12 @@
+{
+    "Uranium Fuel Unit Alternate":
+    {
+        "Result":0.6,
+        "Ingredients":{
+            "Encased Uranium Cell":20,
+            "Electromagnetic Control Rod":2,
+            "Crystal Oscillator":0.6,
+            "Beacon":1.2
+        }
+    }
+}

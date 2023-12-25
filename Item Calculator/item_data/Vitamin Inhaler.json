@@ -1,0 +1,10 @@
+{
+    "Vitamin Inhaler":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Mycelia":10,
+            "Paleberry":5
+        }
+    }
+}

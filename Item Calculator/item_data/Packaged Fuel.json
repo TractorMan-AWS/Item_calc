@@ -1,0 +1,10 @@
+{
+    "Packaged Fuel":
+    {
+        "Result":40,
+        "Ingredients":{
+            "Fuel":40,
+            "Empty Canister":40
+        }
+    }
+}

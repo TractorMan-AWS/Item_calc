@@ -1,0 +1,10 @@
+{
+    "Turbofuel":
+    {
+        "Result":18.75,
+        "Ingredients":{
+            "Fuel":22.5,
+            "Compacted Coal":15
+        }
+    }
+}

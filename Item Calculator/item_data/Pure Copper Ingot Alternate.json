@@ -1,0 +1,10 @@
+{
+    "Pure Copper Ingot Alternate":
+    {
+        "Result":37.5,
+        "Ingredients":{
+            "Copper Ore":15,
+            "Water":10
+        }
+    }
+}

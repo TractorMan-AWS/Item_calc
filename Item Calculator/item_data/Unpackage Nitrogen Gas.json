@@ -1,0 +1,10 @@
+{
+    "Unpackage Nitrogen Gas":
+    {
+        "Result":240,
+        "Ingredients":{
+            "Packaged Nitrogen Gas":60,
+            "Empty Fluid tank Output":60
+        }
+    }
+}

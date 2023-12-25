@@ -1,0 +1,12 @@
+{
+    "Turbo Blend Fuel Alternate":
+    {
+        "Result":45,
+        "Ingredients":{
+            "Fuel":15,
+            "Heavy Oil Residue":30,
+            "Sulfur":22.5,
+            "Petroleum Coke":22.5
+        }
+    }
+}

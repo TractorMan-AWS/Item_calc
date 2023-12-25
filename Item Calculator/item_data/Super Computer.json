@@ -1,0 +1,12 @@
+{
+    "Supercomputer":
+    {
+        "Result":1.875,
+        "Ingredients":{
+            "Computer":3.75,
+            "Ai Limiter":3.75,
+            "High Speed Connecter":5.625,
+            "Plastic":52.5
+        }
+    }
+}

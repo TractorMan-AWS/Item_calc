@@ -1,0 +1,10 @@
+{
+    "Unpackage Liquid Biofuel":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Packaged Liquid Biofuel":60,
+            "Empty Canister Output":60
+        }
+    }
+}

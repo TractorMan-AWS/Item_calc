@@ -1,0 +1,10 @@
+{
+    "Parachute":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Fabric":20,
+            "Cable":10
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Pure Iron Ingot Alternate":
+    {
+        "Result":65,
+        "Ingredients":{
+            "Iron Ore":35,
+            "Water":20
+        }
+    }
+}

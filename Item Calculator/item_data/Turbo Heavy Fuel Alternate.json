@@ -1,0 +1,10 @@
+{
+    "Turbo Heavy Fuel Alternate":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Heavy Oil Residue":37.5,
+            "Compacted Coal":30
+        }
+    }
+}

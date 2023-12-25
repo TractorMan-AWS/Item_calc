@@ -1,0 +1,10 @@
+{
+    "Unpackaged Oil":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Packaged Oil":60,
+            "Empty Canister Output":60
+        }
+    }
+}

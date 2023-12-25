@@ -1,0 +1,10 @@
+{
+    "Packaged Biofuel":
+    {
+        "Result":40,
+        "Ingredients":{
+            "Liquid Biofuel":40,
+            "Empty Canister":40
+        }
+    }
+}

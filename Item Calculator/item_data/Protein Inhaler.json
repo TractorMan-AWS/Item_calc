@@ -1,0 +1,11 @@
+{
+    "Protein Inhaler":
+    {
+        "Result":1,
+        "Ingredients":{
+            "Alien Protein":2,
+            "Beryl Nut":20,
+            "Rotor":50
+        }
+    }
+}

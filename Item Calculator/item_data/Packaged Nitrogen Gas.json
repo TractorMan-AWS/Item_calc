@@ -1,0 +1,10 @@
+{
+    "Packaged Nitrogen Gas":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Nitrogen Gas":240,
+            "Empty Fluid Tank":60
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Turbo Pressure Motor Alternate":
+    {
+        "Result":3.75,
+        "Ingredients":{
+            "Motor":7.5,
+            "Pressure Conversion Cube":1.875,
+            "Packaged Nitrogen Gas":45,
+            "Stator":15
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Plutonium Fuel Rod":
+    {
+        "Result":0.25,
+        "Ingredients":{
+            "Encased Plutonium Cell":30,
+            "Steel Beam":4.5,
+            "Electromagnetic Control Rod":1.5,
+            "Heat Sink":2.5
+        }
+    }
+}

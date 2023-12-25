@@ -1,0 +1,11 @@
+{
+    "Plastic Smart Plating Alternate":
+    {
+        "Result":5,
+        "Ingredients":{
+            "Reinforced Iron Plate":2.5,
+            "Rotor":2.5,
+            "Plastic":7.5
+        }
+    }
+}

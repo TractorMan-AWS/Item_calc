@@ -1,0 +1,10 @@
+{
+    "Silicon Circuit Board Alternate":
+    {
+        "Result":12.5,
+        "Ingredients":{
+            "Copper Sheet":27.5,
+            "Silica":27.5
+        }
+    }
+}

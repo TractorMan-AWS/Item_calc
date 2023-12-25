@@ -1,0 +1,11 @@
+{
+    "Radio Control Unit Alternate":
+    {
+        "Result":3.75,
+        "Ingredients":{
+            "Heat Sink":15,
+            "High Speed Connector":7.5,
+            "Quartz Crystal":45
+        }
+    }
+}

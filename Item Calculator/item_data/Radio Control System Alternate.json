@@ -1,0 +1,12 @@
+{
+    "Radio Control Unit Alternate":
+    {
+        "Result":4.5,
+        "Ingredients":{
+            "Crystal Oscillator":1.5,
+            "Circuit Board":15,
+            "Aluminum Casing":90,
+            "Rubber":45
+        }
+    }
+}

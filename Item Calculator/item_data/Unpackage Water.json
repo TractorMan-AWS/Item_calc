@@ -1,0 +1,10 @@
+{
+    "Unpackage Water":
+    {
+        "Result":120,
+        "Ingredients":{
+            "Packaged Water":120,
+            "Empty canister Output":120
+        }
+    }
+}

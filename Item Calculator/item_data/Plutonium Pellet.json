@@ -1,0 +1,10 @@
+{
+    "Plutonium Pellet":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Non Fissile Uranium":100,
+            "Uranium Waste":25
+        }
+    }
+}

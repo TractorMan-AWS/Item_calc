@@ -1,0 +1,10 @@
+{
+    "Packaged Oil":
+    {
+        "Result":30,
+        "Ingredients":{
+            "Crude Oil":30,
+            "Empty Canister":30
+        }
+    }
+}

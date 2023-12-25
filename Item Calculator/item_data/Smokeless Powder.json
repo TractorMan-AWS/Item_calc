@@ -1,0 +1,10 @@
+{
+    "Smokeless Powder":
+    {
+        "Result":20,
+        "Ingredients":{
+            "Black Powder":20,
+            "Heavy Oil Residue":10
+        }
+    }
+}

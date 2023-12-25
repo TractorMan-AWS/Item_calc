@@ -1,0 +1,10 @@
+{
+    "Plutonium Fuel Unit Alternate":
+    {
+        "Result":0.5,
+        "Ingredients":{
+            "Encased Plutonium Cell":10,
+            "Pressure Conversion Cube":0.5
+        }
+    }
+}

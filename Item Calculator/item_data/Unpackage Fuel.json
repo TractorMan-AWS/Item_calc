@@ -1,0 +1,10 @@
+{
+    "Unpackage Fuel":
+    {
+        "Result":60,
+        "Ingredients":{
+            "Packaged Fuel":60,
+            "Empty Canister Output":60
+        }
+    }
+}
